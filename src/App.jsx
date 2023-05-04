@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div> <p>This is A Test</p> </div>
+      {/* <div> <p>This is A Test</p> </div>
     <div> <p>This is A Test</p> </div>
       <div>
         <a href="https://vitejs.dev" target="_blank">
@@ -29,7 +29,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
+      </p> */}
     </>
   )
 }
